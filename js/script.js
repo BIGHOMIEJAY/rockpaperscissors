@@ -9,3 +9,9 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
+$("#shoot").click(function(){
+    console.log("jassen")
+        let input=
+    $("#input").val();
+    $("#userChoice").html(input)
+});
